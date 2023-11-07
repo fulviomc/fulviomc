@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Fulvio Cavalheiro 😁
+## Bem-vindo(a) ao perfil do Fulvio Cavalheiro
 
  <div>
    <a href="https://github.com/fulviomc">
